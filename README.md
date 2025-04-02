@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cemali
-- 🔭 I’m currently working on Vue Projects
+- 🔭 I’m currently working on React and Vue Projects
 - 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on Laravel & Vue projects
 - 💬 Ask me about anything
