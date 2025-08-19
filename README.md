@@ -7,7 +7,7 @@
 💡 Focused on solution-oriented development, platform growth, and product management  
 📚 Educator on Udemy with courses in web development reaching thousands of students  
 🌍 Experienced in integrating 3rd-party tools like Google Tag Manager, Google Analytics, and Firebase  
-📫 Reach me at cemali.gencer@gmail.com | LinkedIn: https://www.linkedin.com/in/cemaligencer/
+📫 Reach me at me[at]cemaligencer.com
 
 <!---
 cemalivive/cemalivive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
