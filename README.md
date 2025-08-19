@@ -1,8 +1,8 @@
-👋 Hi, I’m Cemali Gencer  
+👋 Hi, I’m Cemali  
 💻 Senior Frontend Developer with 17 years experience in e-commerce and corporate projects  
 ⚛️ Skilled in Vue.js, React.js, Next.js, JavaScript, HTML5/CSS3  
 🛠 Experienced with accessibility, UI/UX improvements, performance optimization, and code refactoring  
-📊 Worked on loyalty apps, ERP dashboards, and high-traffic web platforms  
+✈️ Industry experience in aviation and e-commerce, with an active interest in AI-driven projects  
 🔧 Proficient in Git, GitHub, GitLab, SASS, LESS, Bootstrap, Bulma, and jQuery  
 💡 Focused on solution-oriented development, platform growth, and product management  
 📚 Educator on Udemy with courses in web development reaching thousands of students  
